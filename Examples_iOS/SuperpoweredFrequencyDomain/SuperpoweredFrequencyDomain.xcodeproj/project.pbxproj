@@ -143,7 +143,7 @@
 				TargetAttributes = {
 					1B468B541AE663D20099A7DD = {
 						CreatedOnToolsVersion = 6.3;
-						DevelopmentTeam = AP4SQ5L535;
+						DevelopmentTeam = 696BHPW9KB;
 					};
 				};
 			};
@@ -299,14 +299,14 @@
 		1B468B791AE663D20099A7DD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = AP4SQ5L535;
+				DEVELOPMENT_TEAM = 696BHPW9KB;
 				INFOPLIST_FILE = SuperpoweredFrequencyDomain/etc/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/../../Superpowered",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.imect.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.imect.SuperpoweredFrequencyDomain-jan";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -314,14 +314,14 @@
 		1B468B7A1AE663D20099A7DD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = AP4SQ5L535;
+				DEVELOPMENT_TEAM = 696BHPW9KB;
 				INFOPLIST_FILE = SuperpoweredFrequencyDomain/etc/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/../../Superpowered",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.imect.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.imect.SuperpoweredFrequencyDomain-jan";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

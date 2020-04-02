@@ -193,7 +193,7 @@
 				ORGANIZATIONNAME = imect;
 				TargetAttributes = {
 					1B85C533189E6F20006D6C3C = {
-						DevelopmentTeam = AP4SQ5L535;
+						DevelopmentTeam = 696BHPW9KB;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
@@ -357,7 +357,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = AP4SQ5L535;
+				DEVELOPMENT_TEAM = 696BHPW9KB;
 				ENABLE_BITCODE = NO;
 				GCC_CW_ASM_SYNTAX = YES;
 				GCC_C_LANGUAGE_STANDARD = "compiler-default";
@@ -372,7 +372,7 @@
 				);
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = com.imect.superpoweredperformance;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.imect.superpoweredperformance-jan";
 				PRODUCT_NAME = SuperpoweredPerformance;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -389,7 +389,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = AP4SQ5L535;
+				DEVELOPMENT_TEAM = 696BHPW9KB;
 				ENABLE_BITCODE = NO;
 				GCC_CW_ASM_SYNTAX = YES;
 				GCC_C_LANGUAGE_STANDARD = "compiler-default";
@@ -403,7 +403,7 @@
 				);
 				OTHER_CFLAGS = "";
 				OTHER_LDFLAGS = "";
-				PRODUCT_BUNDLE_IDENTIFIER = com.imect.superpoweredperformance;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.imect.superpoweredperformance-jan";
 				PRODUCT_NAME = SuperpoweredPerformance;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
