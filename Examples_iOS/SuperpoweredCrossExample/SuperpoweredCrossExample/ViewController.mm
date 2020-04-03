@@ -102,6 +102,8 @@ static bool audioProcessing(void *clientdata, float **inputBuffers, unsigned int
     flanger = new Superpowered::Flanger(44100);
     
     filter->resonance = 0.1f;
+    const char* path = [[[NSBundle mainBundle] pathForResource:@"lycka" ofType:@"mp3"] fileSystemRepresentation];
+    printf("path %c",path);
     playerA->open([[[NSBundle mainBundle] pathForResource:@"lycka" ofType:@"mp3"] fileSystemRepresentation]);
     playerB->open([[[NSBundle mainBundle] pathForResource:@"nuyorica" ofType:@"m4a"] fileSystemRepresentation]);
 
